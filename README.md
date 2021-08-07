@@ -44,7 +44,8 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[DevSquad](https://devsquad.com)**
 - **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
 - **[OP.GG](https://op.gg)**
-
+## Importanto banco de dados
+-Na raiz do projeto, digite o comando: sudo mysql "nome do banco" < crud_laravel.sql 
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
